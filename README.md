@@ -1,2 +1,17 @@
-# retail-sales-bi-dashboard
-An excel based Sales Dashboard analyzing sales, profitability and business performance
+# Retail Sales Performance Dashboard
+
+## Project Overview
+
+## Business Objectives
+
+## Dataset
+
+## Tools and Skills
+
+## Key Performance Indicators (KPIs)
+
+## Dashboard Preview
+
+## Key Insights
+
+## Project Process
